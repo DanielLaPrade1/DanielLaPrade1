@@ -38,7 +38,8 @@ My personal portfolio to display relevant information and skills *(somewhat outd
 
 ### 🍕 GorillaPizza  
 A mock pizza shop website with a gorilla theme.  
-- **Built with:** HTML, CSS, JavaScript & Bootstrap  
+- **Built with:** HTML, CSS, JavaScript & Bootstrap
+- https://gorilla-pizza.vercel.app/order.html
 
 
 
