@@ -31,7 +31,8 @@ A transformer model built from scratch with help from PyTorch components. *(Not 
 
 ### 🌐 Portfolio  
 My personal portfolio to display relevant information and skills *(somewhat outdated)*.  
-- **Built with:** React & TypeScript  
+- **Built with:** React & TypeScript
+- https://laprade-portfolio.vercel.app/
 
 ---
 
