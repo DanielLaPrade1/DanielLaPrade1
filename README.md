@@ -1,6 +1,6 @@
 # Hello 👋  
 My name is **Daniel LaPrade**.  
-I'm a **Software Engineer** with a passion for **Machine Learning, AI, and Design**.  
+I'm a **Software Engineer** with a passion for building full-stack applications.
 
 ---
 
