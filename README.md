@@ -77,34 +77,6 @@ Trained on scraped data from sports-reference.com, this project explores multipl
 
 ---
 
-### 🔧 [Transformer](https://github.com/DanielLaPrade1/Transformer) *(WIP)*
-> **A transformer architecture built from scratch**
-
-Neural network for training word embeddings for transformers, trained on hundreds of thousands of Wikipedia articles. An exploration into the foundational architecture behind modern LLMs.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
----
-
-### 🌐 [Portfolio](https://github.com/DanielLaPrade1/portfolio)
-> **Personal portfolio site** · [laprade-portfolio.vercel.app](https://laprade-portfolio.vercel.app/)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
----
-
-### 🍕 [GorillaPizza](https://github.com/DanielLaPrade1/GorillaPizza)
-> **Mock pizza shop with a gorilla theme** · [Live Demo](https://gorilla-pizza.vercel.app/order.html)
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
----
-
 ## Tech Stack
 
 | Category | Technologies |
