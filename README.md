@@ -4,7 +4,6 @@
 
 **Software Architect · Full-Stack Developer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-laprade--portfolio.vercel.app-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://laprade-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel--laprade-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-laprade-a94491286/)
 
 James Madison University Alumni · Building full-stack applications and leveraging machine learning
